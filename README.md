@@ -19,7 +19,8 @@ A modern web-based AI chatbot built with Flask and powered by Groq's LLaMA 3.1 8
 ## Installation
 
 1. **Clone or download the project files**
-   ``` git clone https://github.com/Shakibul-CyberSec/Flask-ai-chatbot.git
+   ```
+   git clone https://github.com/Shakibul-CyberSec/Flask-ai-chatbot.git
    ```
 
 2. **Create a virtual environment (recommended):**
