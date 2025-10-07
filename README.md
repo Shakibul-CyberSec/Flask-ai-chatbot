@@ -47,7 +47,13 @@ A modern web-based AI chatbot built with Flask and powered by Groq's LLaMA 3.1 8
    ```
    http://127.0.0.1:5000
    ```
-## Demo
-   [![Watch Demo](https://img.youtube.com/vi/nem08ddfWBo/0.jpg)](https://youtu.be/nem08ddfWBo)
+## 🎬 Demo
+
+<p align="center">
+  <a href="https://youtu.be/nem08ddfWBo">
+    <img src="https://img.youtube.com/vi/nem08ddfWBo/0.jpg" alt="Watch the Demo" width="75%">
+  </a>
+</p>
+
 
 
